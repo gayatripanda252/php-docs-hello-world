@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World Gayatri v2.0 !";
+echo "Hello World Gayatri v1.0 !";
